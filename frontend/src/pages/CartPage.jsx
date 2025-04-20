@@ -4,7 +4,7 @@ import PeopleAlsoBought from "../components/PeopleAlsoBought";
 import { useCartStore } from "../stores/useCartStore";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
-import OrderSummary from "../components/OrderSummary";
+import OrderSummary from "../components/orderSummary";
 import GiftCouponCard from "../components/GiftCouponCard";
 
 const CartPage = () => {
